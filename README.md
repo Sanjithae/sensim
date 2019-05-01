@@ -30,6 +30,8 @@ To compute the similarity we use 5 features which are
  
  ## To run the program
  
+ The input to the program should be a csv file which consists of 3 columns sentence1,sentence2,similarity score
+ 
  python main.py
  
  
