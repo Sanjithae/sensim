@@ -41,10 +41,24 @@ To compute the similarity we use 5 features which are
  1) SICK 2014
  2) SemEval 2017
  3) SemEval 2014
+ 
+ ## To make this model to run for other datasets
+ 
+ If you want to use the trained model for a new dataset
+ 
+ 1) Create a folder with the name of the dataset in the data folder
+ 2) Change the filepath in the main.py and sensim.py
+ 3) Run main.py
+ 
+ If you want to use the trained model for new sentences 
+ 
+ 1) In the sensim.py in the evaluate function use the trained model for predicting by calling the load_model() and comment the code which is responsible for creating a new model.
+ 2) Run main.py
+ 
 
 ## Results
 
-
+STS 2017 = 39.46
 
 
 ## Jupyter Notebook
