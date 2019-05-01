@@ -58,7 +58,9 @@ To compute the similarity we use 5 features which are
 
 ## Results
 
-STS 2017 = 39.46
+SemEval 2017 = 39.46
+SemEval 2014 = 44.89
+SICK         = 42.54
 
 
 ## Jupyter Notebook
