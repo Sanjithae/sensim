@@ -67,7 +67,7 @@ You can see the execution of each function [here.](https://github.com/Sanjithae/
 
 ## Youtube Video
 
-Explanation of the code [here.]()
+Explanation of the code [here.](https://youtu.be/X_8rV55Kxyc)
 
 
 
