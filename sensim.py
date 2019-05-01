@@ -21,7 +21,7 @@ class sensim:
         sentences2 = []
         all_sentences = []
         similarity_score = []
-        with open(filename, 'r') as f:
+        with open(filename, 'r',encoding="utf-8") as f:
 
             data = csv.reader(f)
             for row in data:
