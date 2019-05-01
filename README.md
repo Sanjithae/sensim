@@ -1,4 +1,5 @@
-# sensim
+## UdL at SemEval-2017 Task 1: Semantic Textual Similarity Estimation of English Sentence Pairs Using Regression Model over Pairwise Features
+
 Given two sentences returns the similarity score between them as a value between 0 and 1
 
 Implemented the paper  [UdL at SemEval-2017 Task 1: Semantic Textual Similarity Estimation of English Sentence Pairs Using Regression Model over 
